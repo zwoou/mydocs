@@ -9,6 +9,8 @@ category:
 ## 目录
 
 - [Markdown 展示](markdown.md)
+- [git](git/git.md)
+- [git02](git/git02.md)
 
 - [页面展示](page.md)
 
