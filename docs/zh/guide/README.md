@@ -1,5 +1,5 @@
 ---
-title: 主要功能与配置演示
+title: 学习笔记
 index: false
 icon: creative
 category:
@@ -9,14 +9,17 @@ category:
 ## 目录
 
 - [Markdown 展示](markdown.md)
+
+## git
+
 - [git](git/git.md)
 - [git02](git/git02.md)
-- [多线程](多线程/多线程.md)
 
-### js
+## 前端
 
-- [vuejs](js/vuejs.md)
 - [css](js/css.md)
+- [vuejs](js/vuejs.md)
+
 - [页面展示](page.md)
 
 - [禁用展示](disable.md)

@@ -5,6 +5,8 @@ category:
   - CategoryB
 ---
 
+# git
+
 1. 配置代理
 git config --global http.proxy <http://XXXx.com.cn:8080>
 git config --global https.proxy <https://XXX.com.cn:8080>
